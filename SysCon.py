@@ -23,9 +23,9 @@ body="The Ip address of Host is "+IPadd
 
 message ="Subject:{}\n\n{}".format(subject,body)
 
-rec="ibrahimjhullan7@gmail.com"
+rec="**********@gmail.com"
 
-ob.sendmail("ali@gmail.com",rec,message)
+ob.sendmail("*****Sender@gmail.com",rec,message)
 
 print("send Successfully...")
 
